@@ -9,7 +9,7 @@ passionate about building practical software and learning through real-world pro
 
 - 🏥 National Healthcare Record Exchange
 - 💎 Goynar Gontobbo — Jewelry E-commerce Platform
-- 🎓 UIU CSE Course Planner
+
 
 ### 💻 Tech Stack
 
