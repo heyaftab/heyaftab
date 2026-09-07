@@ -1,4 +1,4 @@
-# Hi, I'm Aftab 👋
+# Hey, I'm Aftab 👋
 
 ### CSE Student | Full-Stack Developer | Problem Solver
 
