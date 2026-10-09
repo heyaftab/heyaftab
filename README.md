@@ -1,61 +1,83 @@
 # Hey, I'm Aftab 👋
 
-### CSE Student | Full-Stack Developer | Problem Solver
+### CSE Student → AI Engineer | Software & Full-Stack Builder
 
-I'm a Computer Science & Engineering student at United International University,
-passionate about building practical software and learning through real-world projects.
+I'm a Computer Science & Engineering student at United International University
+focused on building practical software, exploring AI and intelligent systems,
+and turning ideas into real-world products.
 
-### 🚀 Currently Building
+I enjoy working across the stack — from designing interfaces and APIs to
+databases, automation, and AI-powered applications.
 
-- 🏥 National Healthcare Record Exchange
-- 💎 Goynar Gontobbo — Jewelry E-commerce Platform
+---
 
+## 🧠 What I'm Working Toward
 
-### 💻 Tech Stack
+I'm building my foundation toward **AI Engineering** through:
 
-**Languages**
-- C
-- C++
-- JavaScript
-- Python
-- PHP
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python & intelligent systems
+- 🧩 Data Structures & Algorithms
+- ⚙️ Backend & API development
+- 🌐 Full-stack application development
+- 🗄️ Databases & data-driven systems
+- ☁️ Cloud & modern development tools
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
+---
 
-**Backend**
-- Laravel
-- FastAPI
-- REST APIs
+## 🚀 Currently Building
 
-**Database**
-- MySQL
-- SQLite
+### 🏥 National Healthcare Record Exchange
+A centralized healthcare record exchange platform designed to
+connect healthcare information through a structured digital system.
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Docker
+### 💎 Goynar Gontobbo
+A full-stack jewelry e-commerce platform being developed for a
+real-world jewelry business.
 
-### 📌 Featured Projects
+---
 
-🏥 **National Healthcare Record Exchange**  
-A centralized platform for exchanging healthcare records securely.
+## 🛠️ Tech Stack
 
-💎 **Goynar Gontobbo**  
-Full-stack e-commerce platform for a jewelry business.
+### Languages
+`C` `C++` `Python` `JavaScript` `PHP` `TypeScript`
 
-🎓 **UIU CSE Course Planner**  
-A web application for planning CSE courses and academic progress.
+### AI & Backend
+`Python` `FastAPI` `Laravel` `REST APIs`
 
-### 📫 Connect With Me
+### Frontend
+`HTML` `CSS` `React` `Next.js` `Tailwind CSS`
 
-- LinkedIn
-- Facebook
-- Instagram
+### Databases
+`MySQL` `PostgreSQL` `SQLite` `SQL Server`
+
+### Tools & Infrastructure
+`Git` `GitHub` `Docker` `Postman` `Linux` `VS Code`
+
+---
+
+## ⭐ Featured Projects
+
+| Project | What it is |
+|---|---|
+| 🏥 **NHRE** | Healthcare record exchange platform |
+| 💎 **Goynar Gontobbo** | Real-world jewelry e-commerce platform |
+| 🎓 **UIU CSE Course Planner** | Academic planning and course management system |
+| 🖊️ **Smart CNC Plotter** | Microcontroller-based hardware/software project |
+
+> I'm particularly interested in projects where **software, data, and intelligent systems meet real-world problems.**
+
+---
+
+## ⚙️ How I Build
+
+```text
+Understand the Problem
+        ↓
+Design the Solution
+        ↓
+Build
+        ↓
+Test
+        ↓
+Iterate
