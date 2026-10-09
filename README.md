@@ -1,11 +1,10 @@
-<img width="1086" height="1448" alt="Confident Portrait on Campus" src="https://github.com/user-attachments/assets/68473e67-311d-4ee8-9202-80c72cbf0676" />
-<!-- Repo name must be exactly your username: github.com/heyaftab/heyaftab  ·  keep assets/profile.jpg next to this file -->
+<!-- Repo name must be exactly your username: github.com/heyaftab/heyaftab -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:4f46e5,100:22d3ee&height=200&section=header&text=Hey%2C%20I'm%20Aftab&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%E2%86%92%20AI%20Engineer%20%C2%B7%20Full-Stack%20Builder&descSize=18&descAlignY=60" alt="Hey, I'm Aftab" />
 
-<img src="assets/profile.jpg" width="140" height="140" alt="Aftab Uddin Ahmad" />
+<img src="https://github.com/user-attachments/assets/68473e67-311d-4ee8-9202-80c72cbf0676" width="170" alt="Aftab Uddin Ahmad" />
 
 <a href="https://hey-aftab.lovable.app"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real-world+products;Building+toward+AI+Engineering;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Laravel;CSE+%40+United+International+University" alt="typing" /></a>
 
