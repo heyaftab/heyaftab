@@ -1,3 +1,4 @@
+<img width="1086" height="1448" alt="Confident Portrait on Campus" src="https://github.com/user-attachments/assets/68473e67-311d-4ee8-9202-80c72cbf0676" />
 <!-- Repo name must be exactly your username: github.com/heyaftab/heyaftab  ·  keep assets/profile.jpg next to this file -->
 
 <div align="center">
